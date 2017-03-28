@@ -1,0 +1,9 @@
+<link href='/images/fav.png' rel='shortcut icon'>
+<link href='<%= theme.rss %>' rel='alternate' type='application/rss+xml'>
+<%- css(['css/style', 'css/highlight', 'css/responsive']) %>
+<%- js(['js/jquery', 'js/basics']) %>
+<meta content='width=device-width, initial-scale=1.0, user-scalable=no' name='viewport'>
+<meta content='text/html; charset=utf-8' http-equiv='content-type'>
+<% if (theme.google_analytics) { %>
+  <%- partial('_partial/ga') %>
+<% } %>
