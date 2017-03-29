@@ -1,24 +1,10 @@
 # Scribble
 
-Another Hexo theme migrated from a Jekyll theme [Scribble](https://github.com/chloerei/scribble).
+基于 jkeyll 的博客原主题在这里 [Scribble](https://github.com/chloerei/scribble).
 
-## Installation
+### themes
 
-### Install
-
-``` bash
-$ git clone https://github.com/saintwinkle/hexo-theme-scribble.git themes/scribble
-```
-
-### Enable
-
-Modify `theme` setting in `_config.yml` to `scribble`.
-
-### Dependencies
-
-Follow the guide: https://github.com/hexojs/hexo-generator-feed
-
-## Configuration
+修改你的主题需要在你clone的本主题目录下做改动，如下：
 
 ``` yml
 title: 
@@ -36,15 +22,16 @@ disqus_shortname:
 google_analytics: 
 ```
 
-- __menu__ - Navigation menu
+- __menu__ - menu菜单里的东西可根据自己的喜好配置
 - __rss__ - RSS link
+- **Email** - 后面的配置 mailto 旨在打开你的邮箱客户端并自动附带收件人为所带邮箱地址
 - __signoff__ - Your name
-- __disqus_shortname__ - Disqus shortname
-- __google_analytics__ - Google Analytics ID
+- **highlight** - 代码高亮因为自原主题改动而来，主题自带高亮暂时无法使用，当然希望越来越多的兄弟们参与进来，我们一起让它变得更好！
+- **question** - 有什么问题欢迎在我的 github 上 Issue ，欢迎 Fork , Pull requests.
 
-## Warning
+## 温馨提醒
 
-The theme __DOES NOT__ totally fit all features in Hexo.
+以上已说明情况，本主题不是所有的功能都适用于 Hexo ，做技术博客简洁最好，所以我们就让他变得更好！
 
 ## More
 
