@@ -2,7 +2,7 @@
 
 基于 jkeyll 的博客原主题在这里 [Scribble](https://github.com/chloerei/scribble).
 
-改动后的主题效果看这里[Hexo-Scribble](https://stormzha.github.io)
+改动后的主题效果看这里[Hexo-Scribble](https://smartbeng.github.io)
 
 ### themes
 
