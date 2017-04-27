@@ -33,6 +33,8 @@ google_analytics:
 
 ## 温馨提醒
 
+![加载中...](http://upload-images.jianshu.io/upload_images/5276837-ddaae4a0203d9d3b.gif?imageMogr2/auto-orient/strip)
+
 以上已说明情况，本主题不是所有的功能都适用于 Hexo ，做技术博客简洁最好，所以我们就让他变得更好！
 
 ## More
