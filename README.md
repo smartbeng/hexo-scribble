@@ -1,6 +1,7 @@
 # Scribble
 
 - 基于 jkeyll 的博客原主题在这里 [Scribble](https://github.com/chloerei/scribble).
+- 改动后主题的作者链接：https://github.com/saintwinkle/hexo-theme-scribble
 - 改动后的主题效果：
 
 ![My blog themes](http://upload-images.jianshu.io/upload_images/5276837-196c522955da305a.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
